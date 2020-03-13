@@ -1,6 +1,6 @@
 <?php
 
-namespace SteelyWing\Chinese;
+namespace Easyconn\Chinese;
 
 
 class Chinese

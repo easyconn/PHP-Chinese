@@ -1,5 +1,5 @@
 {
-    "name": "steelywing/chinese",
+    "name": "Easyconn/chinese",
     "description": "中文繁簡轉換 Convert Traditional and Simplified Chinese",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "psr-4": { "SteelyWing\\Chinese\\": "" },
+        "psr-4": { "Easyconn\\Chinese\\": "" },
         "exclude-from-classmap": [
             "/Tests/"
         ]
