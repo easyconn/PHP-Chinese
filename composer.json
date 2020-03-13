@@ -1,5 +1,5 @@
 {
-    "name": "Easyconn/chinese",
+    "name": "easyconn/chinese",
     "description": "中文繁簡轉換 Convert Traditional and Simplified Chinese",
     "type": "library",
     "license": "MIT",
